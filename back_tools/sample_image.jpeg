@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AuthorizationQueryParametersError</Code><Message>Query-string authentication version 4 requires the X-Amz-Algorithm, X-Amz-Credential, X-Amz-Signature, X-Amz-Date, X-Amz-SignedHeaders, and X-Amz-Expires parameters.</Message><RequestId>BXTAZJ9KFN9B8TJV</RequestId><HostId>diHjGHE2nZlHac9K3+LkpmaEnB7P0lVZgZNicc2N1QvrSxYr0APGLacB75b543i/yxe1AkatYEY=</HostId></Error>
