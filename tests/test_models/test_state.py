@@ -79,7 +79,7 @@ class TestState_instantiation(unittest.TestCase):
         self.assertEqual(st.updated_at, dt)
 
     def test_instantiation_with_None_kwargs(self):
-        with self.assertRaises(TypeError, msg="failed to raise TypeError"):
+        with self.assertRaises(TypeError):
             State(id=None, created_at=None, updated_at=None)
 
 
